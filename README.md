@@ -16,3 +16,4 @@ Current match logic:
 - Made shots, shot-clock violations, and out-of-bounds enter dead-ball/check-ball flow.
 - Away possessions are skipped after a short delay until AI is implemented.
 
+<img width="1364" height="847" alt="image" src="https://github.com/user-attachments/assets/f53bfec5-f574-4a5d-9854-fcb000a61a4f" />
